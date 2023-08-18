@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>GlobalSpeak</title>
+
+    
+</head>
+
+<body>
+    <div class="title-box">
+        <h1>GlobalSpeak</h1>
+        <h1>A Translation Service</h1>
+    </div>
+    <div class="container">
+        <div>
+            <form method="POST">
+                <div><p>Enter the text you wish to translate, choose the language, and click Translate!</p></div>
+        <div class="form__group field">
+          <input type="input" class="form__field" placeholder="Name" name="text" id='name' required />
+          <label for="name" class="form__label">Translate!</label>
+        </div><br>
+                <div class="input-group">
+                    <label for="language">Language:</label>
+                    <select name="language" class="form-control">
+                        <option value="en">English</option>
+                        <option value="it">Italian</option>
+                        <option value="ja">Japanese</option>
+                        <option value="ru">Russian</option>
+                        <option value="de">German</option>
+                        <option value="es">Spanish</option>
+                    </select>
+                </div><br>
+                <div>
+                    <button type="submit" class="btn btn-success">Translate!</button>
+                </div>
+            </form>
+        </div>
+    
+    </div>
+</body>
+
+</html>
