@@ -1,10 +1,10 @@
 <header>
         <h1>🌍GlobalSpeak Translation Website🌟</h1>
-![ezgif com-video-to-gif](https://github.com/RaulJRodriguez/AI-Translator-App/assets/141186887/39fe1a56-aa80-40fa-aac0-b96c10ef877c)
     </header>
     <section>
         <h2>🚀 About</h2>
         <p>Welcome to our Translation Website! This web application allows users to easily translate text from one language to another.</p>
+        ![](https://github.com/RaulJRodriguez/AI-Translator-App/blob/main/HowItWorks.gif)
     </section>
     <section>
         <h2>✨ Features</h2>
